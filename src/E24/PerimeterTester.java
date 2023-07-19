@@ -1,3 +1,5 @@
+/* E2.4 Write a PerimeterTester program that constructs a Rectangle object and then computes and prints its perimeter. Use the getWidth and getHeight methods. Also print the expected answer. */
+
 package E24;
 
 import java.awt.*;
