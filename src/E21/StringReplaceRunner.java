@@ -1,6 +1,6 @@
 /* E2.1 Write a program that initialises a string with "Mississippi". Then replace all "i" with "ii" and print the length of the resulting string. In that string, replace all "ss" with "s" and print the length of the resulting string. */
 
-package E11;
+package E21;
 
 public class StringReplaceRunner {
     public static void main(String[] args) {
